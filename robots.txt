@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qiwang9.github.io/sitemap.xml
